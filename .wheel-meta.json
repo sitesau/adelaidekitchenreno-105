@@ -1,0 +1,22 @@
+{
+  "wheel_id": 858,
+  "structure": "umbrella",
+  "slug": "adelaidekitchenreno-105",
+  "project": "kitchen-renovations-adelaide-timeline-c70228dff195626be96c07ace",
+  "parent_t1_ref": "adelaidekitchenreno-152",
+  "node_role": "feeder",
+  "money_target": "adelaidekitchenreno.com.au",
+  "primary_kw": "kitchen renovations adelaide timeline",
+  "intended_url": "https://sites-e470-2.web.app/kitchen-renovations-adelaide-timeline-c70228dff195626be96c07ace/",
+  "tier": "T2",
+  "writeback_nonce": "8446024b9b151a2d",
+  "links": [
+    {
+      "target_url": "http://kitchen-renovations-adelaide-questions-to-ask-e22f48b115c2047d6.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Kitchen Renovations Adelaide Questions to Ask: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
